@@ -2,8 +2,8 @@
 This is a simple version of battleship in Java using GUI with the Swing library. Computer Agent has 4 different difficulties. 
 
 ## Description
+I made this project for a college assignment, where we had to design a simple GUI using the Java Swing library.
 
-An in-depth paragraph about your project and overview of use.
 
 
 ### Dependencies
@@ -16,8 +16,9 @@ An in-depth paragraph about your project and overview of use.
 
 
 ## Authors
-Ivan Batista
-LinkedIn -> [@IvanBatista](https://www.linkedin.com/in/ivan-penedo-22081999-true/)
+* Ivan Batista
+
+* LinkedIn -> [@IvanBatista](https://www.linkedin.com/in/ivan-penedo-22081999-true/)
 
 ## Version History
 
